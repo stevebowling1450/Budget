@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Budget</string>
+    <string name="username">Username</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="password">password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="provide_username">You must enter username and password</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="enter_valid_email">You must enter valid E-mail address</string>
+    <string name="match_passwords">Passwords do not match</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="forward"><![CDATA[>]]></string>
+    <string name="category_name">Category Name</string>
+    <string name="invalid_amount">Invalid Amount</string>
+    <string name="fill_in_all">Fill out all Fields</string>
+    <string name="total">total</string>
+    <string name="calendar">Calendar</string>
+</resources>
